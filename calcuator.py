@@ -1,4 +1,4 @@
-ic_path =r'C:\\Users\Асус\OneDrive\Рабочий стол\pyth_aply\icons\ic.png'
+ic_path =r'ic.png'
 res = ''
 count1 = -1
 count2 = -1
